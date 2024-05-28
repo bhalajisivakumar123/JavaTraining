@@ -13,8 +13,8 @@ public class scan {
 
             Scanner A = new Scanner(System.in);
             int e = A.nextInt();
-            String f = A.next();
-
+            String f = A.next().charAt(0);
+                
             System.out.println(e);
 
 
